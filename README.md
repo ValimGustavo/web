@@ -1,4 +1,6 @@
-# web
-Destinado a testes web
+# Web
 
-Repositorio para armazenar estudos de html5-CSS-Javascript e ferramentas para desenvolvimento web
+Repositorio de:
+  -folha de estilo
+  -scripts
+  -testes pagina.
